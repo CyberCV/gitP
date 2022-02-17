@@ -6,6 +6,8 @@ public class gitTest {
 		// TODO Auto-generated method stub
 		System.out.print("water is colorless");
 		System.out.print(" water is blue");
+	
+		
 	}
 
 }
